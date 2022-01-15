@@ -1,0 +1,17 @@
+
+h1
+{
+	color:plum; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("https://wallpapercave.com/wp/wp7115442.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+background-color: rgb(255, 255, 255);
+border-width: 10px;
+
+}
